@@ -12,6 +12,7 @@ Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de
 
 Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
 
+Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 ## Fluxo de trabalho Git local
 
