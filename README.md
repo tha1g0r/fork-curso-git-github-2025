@@ -65,3 +65,5 @@ Pessoas participantes:
 - Tales
 - Téo Calvo
 - Thiago Lopes
+
+obs: esse README foi modificado por @tha1g0r
